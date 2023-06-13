@@ -32,8 +32,8 @@ pip3.8 install /home/jupyterhub/45229799/ktools-1.0.1.tar.gz
 <details>
 <summary><strong>Alternative (Click to expand)</strong></summary>
 
-- Download the file (/dist/ktools-1.0.1.tar.gz)to a location of choice
-- Then excute the following command in terminal or Jupyter notebook 
+- Download the file (/dist/ktools-1.0.1.tar.gz) to a location of choice
+- Then execute the following command in terminal or Jupyter notebook 
 ```shell
 pip3.8 install [location_of_file]/ktools-1.0.1.tar.gz
 ```
