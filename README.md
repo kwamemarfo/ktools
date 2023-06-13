@@ -1,3 +1,5 @@
+Note: This was created for HSBC systems and it will not function properly on other systems. In addition the code was written in jupyter notebook, then converted to .py hence the odd format at certain places.
+
 <div align="center">
 
 # KTools
