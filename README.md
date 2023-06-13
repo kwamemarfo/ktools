@@ -1,4 +1,4 @@
-Note: This was created for HSBC systems and it will not function properly on other systems. In addition the code was converted from jupyter notebook to .py, hence the odd format/structure at certain places.
+Note: This will not function properly on other systems as it was created for HSBC systems. In addition the code was converted from jupyter notebook to .py, hence the odd format/structure at certain places. The aim is to unify this process to enable it to work on all systems following exposure to other banks.
 
 <div align="center">
 
