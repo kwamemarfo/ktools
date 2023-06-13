@@ -70,7 +70,6 @@ class Dashboards:
             display("Please execute the code again and enter the correct password")
             self.button_authenticate.button_style = 'danger'
         else:
-            # Only works when running this file "main_dashboard" as jupyter notebook (.ipynb)
             #global spark
             #global ss
             spark = authentication
