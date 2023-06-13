@@ -17,9 +17,7 @@ class Dashboards:
         self.spark_obj = self.spark_check()
         
         
-        
-    ## Reason for spark_checking here is because getpass will correcly not echo, so getpass
-    ## needsto be included in the main program, hence it is best conducting the checks for password here
+
     @out.capture(clear_output = True)    
     def spark_check(self):
         pwd = getpass.getpass()
