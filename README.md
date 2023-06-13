@@ -5,7 +5,7 @@ Note: This was created for HSBC systems and it will not function properly on oth
 # KTools
 ###### Jupyter notebook dashboard for Data Analysts/Scientist
 
-![](ktools.png)
+![](images/ktools.png)
 
 </div>
 
