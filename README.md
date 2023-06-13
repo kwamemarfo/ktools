@@ -61,7 +61,7 @@ ktools.dashboards()
 ## 🖥️ Usage
 The following dashboards are available under 'ktools.dashboards()':
 -	Authenticate : Authenticate using kinit to enable a sparksession
--	Date Refinery Dashboard: Find MDA's, GDA's and CDA's (Coming soon) generated on the cluster using refinery api. In addition the asset's can be analysed using pyspark_dataprofiling (Thanks to *****)
+-	Date Refinery Dashboard: Find MDA's, GDA's and CDA's (Coming soon) generated on the cluster using refinery api. In addition the asset's can be analysed using pyspark_dataprofiling (Thanks to [julioasotodv](https://github.com/julioasotodv/spark-df-profiling))
 -	Copy File Dashboard: View and/or copy files using a staffID
 -	Create Virtual Environment: Enables creation of virtual environment
 
